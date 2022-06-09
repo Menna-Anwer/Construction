@@ -12,8 +12,7 @@ p{
     font-size: 14px;
 }
 #sec1{
-    background:  linear-gradient(rgb(31 35 42 / 66%),rgb(26 26 30 / 64%));
-    background-image: url('./images/banner.jpg') no-repeat ;
+    background:  linear-gradient(rgb(31 35 42 / 66%),rgb(26 26 30 / 64%)), url('./images/banner.jpg') no-repeat ;
     background-position:center;
 
 }
